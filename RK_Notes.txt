@@ -1,0 +1,1 @@
+$ tsc --noEmitOnError --target ES2016 ./filename.ts --watch
